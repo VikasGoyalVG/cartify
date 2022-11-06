@@ -121,6 +121,7 @@ p{
 
 .col-4 img{
     width: 100%;
+    cursor: pointer;
 }
 
 .title{
